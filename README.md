@@ -14,4 +14,4 @@ The package include the following modules:
 Requirements: C compiler and makefile software.
 1. copy the source code.
 2. compile all modules using make and the input file Makefile. Open a terminal and type
-   (base) file_location ~ % <span style="color:red;">make all</span>
+   (base) file_location ~ % <span style="color:red;"> make all</span>
