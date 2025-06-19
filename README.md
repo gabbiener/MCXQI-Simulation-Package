@@ -9,3 +9,9 @@ The package include the following modules:
                  transfomration of each incoming ray to two out going rays with randomly chosen directions and wavelengths. The module
                  makes sure the incoming energy and momentum is conserved, i.e. equal to the sum of out going energy and momentum.
 3. design_object - uploads an 2d image and converts it to an object with variable absorption values according to the values in the image. 
+
+## Installation
+Requirements: C compiler and makefile software.
+1. copy the source code.
+2. compile all modules using make and the input file Makefile. Open a terminal and type
+   (base) file_location ~ % <span style="color:red;">make all</span>
